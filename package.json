@@ -1,0 +1,6 @@
+{
+  "name": "hnos-palomino",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "python server.py", "test": "node --test tests/logic.test.js" }
+}

@@ -1,0 +1,2 @@
+# El servidor utiliza solo la biblioteca estandar de Python 3.10+.
+# No se necesitan paquetes para ejecutar la web.
